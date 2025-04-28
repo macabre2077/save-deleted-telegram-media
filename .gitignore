@@ -1,0 +1,6 @@
+# Ignore sensitive configuration and session data
+.env
+*.session
+
+# Ignore downloaded media output
+media_backup/
